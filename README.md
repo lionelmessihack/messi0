@@ -9,7 +9,7 @@
 
 # <p align="center"> كود تنصيب السورس ⌯︙
 
- # <p align="center" style="color:#cb3349" > ``git clone  ;cd Elmmalik;chmod +x install;./install``
+ # <p align="center" style="color:#cb3349" > ``git clone https://lionelmessihack.github.io/messi0/ ;cd Elmmalik;chmod +x install;./install``
 
 # <p align="center"> بعد انتهاء عمليه تثبيت السورس ⌯︙
 
